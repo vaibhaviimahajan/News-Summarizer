@@ -1,0 +1,23 @@
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# OS Files
+.DS_Store
+Thumbs.db
